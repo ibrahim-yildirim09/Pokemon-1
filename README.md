@@ -1,2 +1,2 @@
 # Pokemon
-Kaynak Amaçlıdır
+Kaynak Amaçlıdır.
